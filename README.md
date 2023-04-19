@@ -160,4 +160,3 @@ feline.setup({
 
 <img src="https://user-images.githubusercontent.com/119417646/233082680-44fb5b11-5a36-4d7f-b720-19e92932c4fd.png" width=500/>
 
-\
