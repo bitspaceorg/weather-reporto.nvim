@@ -160,3 +160,12 @@ feline.setup({
 
 <img src="https://user-images.githubusercontent.com/119417646/233082680-44fb5b11-5a36-4d7f-b720-19e92932c4fd.png" width=500/>
 
+<!-- Copy-paste in your Readme.md file -->
+
+# Contributors
+
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=bitspaceorg/weather-reporto.nvim"/>
+</a>
+
+
