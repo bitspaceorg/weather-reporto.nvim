@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1098174922951495680/1098174923232510002/Bit_Space.png" width="100" alt="Logo"/><br/>
+    <img src="https://github.com/bitspaceorg/weather-reporto.nvim/assets/119417646/5d84186b-31f7-4e4d-aa19-1fcafa785f8a" width="100" alt="Logo"/><br/>
     <h1 align="center">Weather-Reporto.nvim</h1>
   <img src="https://img.shields.io/github/downloads/t-aswath/Weather-Reporto.nvim/total.svg" width="200"/>
   <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000"/>
